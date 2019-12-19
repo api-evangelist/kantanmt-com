@@ -1,0 +1,65 @@
+{
+    "name": "KantanMT.com",
+    "description": "KantanMT is a cloud-based statistical machine translation platform. We provide high-quality MT services using the power and flexibility of the cloud.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2045-kantanmt-com.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api",
+        "languages",
+        "projects",
+        "translations",
+        "viewers"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kantanmt-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "KantanMT.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2045-kantanmt-com.jpg",
+            "humanURL": "http:\/\/www.kantanmt.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kantanmt-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/machinetranslation.wordpress.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.kantanmt.com\/news.rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/kantanmt"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/kantanmt"
+        },
+        {
+            "type": "Email",
+            "url": "info@kantanmt.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/KantanMT"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.kantanmt.com\/"
+        }
+    ]
+}
